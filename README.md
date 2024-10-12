@@ -40,11 +40,8 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dylanvu6886/dylanvu6868/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=dylanvu6868&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
 
 <hr/>
