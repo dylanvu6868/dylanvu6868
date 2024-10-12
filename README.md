@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=Duong+Hai+Vu" alt="Typing SVG" /> alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=Duong+Hai+Vu" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI Student in FPT University from Vietnam</h3>
