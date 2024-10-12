@@ -51,5 +51,5 @@
 </div>
 <hr/>
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+watching+my+github+👋" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+watching+👋" alt="Typing SVG" />
 </h1>
