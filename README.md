@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:dylanvu6868@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dylanvu6868/" target="_blank">
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,c++,sql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gp,html" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,sql,flask" /><br>
 </div>
 
 <br/>
