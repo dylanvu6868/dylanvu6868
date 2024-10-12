@@ -3,9 +3,7 @@
 </h1>
 <h3 align="center"><img width="64" height="64" src="https://img.icons8.com/external-flat-wichaiwi/64/external-factory-china-and-us-trade-war-flat-wichaiwi.png" alt="external-factory-china-and-us-trade-war-flat-wichaiwi"/></h3>
 <h3 align="center"><a href='https://moewalls.com/others/pepe-matrix-live-wallpaper/' target='_blank'><img width="24" height="24" src="https://img.icons8.com/emoji/48/vietnam-emoji.png" alt="vietnam-emoji"/></a> AI Major in FPT University from Vietnam <a href='https://moewalls.com/others/pepe-matrix-live-wallpaper/' target='_blank'><img width="24" height="24" src="https://img.icons8.com/emoji/48/vietnam-emoji.png" alt="vietnam-emoji" alt="vietnam--v1"/></a></h3>
-
 <br/>
-
 <div align="center">
  
  🔭 I’m currently learning on **_FPT University_**
@@ -13,7 +11,6 @@
  🌱 I'm aiming for **_AI Engineer_**, **_Data Scientist_**
 
  </div>
- 
 <div align="center"> 
   <a href="mailto:dylanvu6868@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -25,9 +22,7 @@
      <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
- 
 <h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
@@ -45,18 +40,19 @@
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></div><br>
 </div>
-
-<br/>
 <hr/>
-<h2 align="center">⚡ Github Stats ⚡</h2>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align="center">
-  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=dylanvu6868&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-<br/>
-<img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanvu6868&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<div align=center>
+  <a>
+   <img width="390" src="https://github-readme-stats.vercel.app/api?username=dylanvu6868&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
+  </a>
+  <a>
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanvu6868&theme=radical&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&cache_seconds=1800" />
+  </a>
 </div>
-<br/>
+
 </div>
 <hr/>
 <h2 align="center">
