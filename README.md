@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/dylanvu6868/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/dylanvu6868" target="_blank">
+  <a href="https://docs.google.com/document/d/e/2PACX-1vQfLsHU2chFN3ot5SvBuHC8uSC_STUWkqUjtzbEUgreh2WmImi4h15SwVkNUYAxvkHk0Y93V_joPZ1E/pub" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -38,32 +38,15 @@
 
 <br/>
 <hr/>
-
+<h2 align="center">⚡ Github Stats ⚡</h2>
+<br>
 <div align="center">
   <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=dylanvu6868&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=dylanvu6868&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
 <br/>
-
+<img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanvu6868&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
+<br/>
+</div>
+<hr/>
