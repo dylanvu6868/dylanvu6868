@@ -4,15 +4,15 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Duong+Hai+Vu+👋" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">AI Student in FPT University from Vietnam</h3>
+<h3 align="center">AI Major in FPT University from Vietnam</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently learning on **FPT University**
+ 🔭 I’m currently learning on **_FPT University_**
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 I'm aiming for **_Computer Vision Engineer_**, **_Big Data Scientist_**
 
  </div>
  
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gcp,docker,python,cpp,flask,tensorflow,selenium,sqplite" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gcp,docker,python,cpp,flask,tensorflow,selenium,sklearn,pytorch,opencv" />
 </div>
 
 <br/>
