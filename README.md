@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vu Hai Duong</h1>
-<h3 align="center">AI Student from Vietnam</h3>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Duong+Hai+Vu" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Duong+Hai+Vu+👋" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI Student in FPT University from Vietnam</h3>
