@@ -10,13 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently learning on **FPT University**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 I’m currently learning **Docker, AWS**
 
  </div>
  
@@ -37,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gcp,html,python,cpp,flask" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gcp,docker,python,cpp,flask,tensorflow,selenium,sqplite" />
 </div>
 
 <br/>
