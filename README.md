@@ -33,7 +33,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gcp,docker,python,cpp,flask,tensorflow,selenium,sklearn,pytorch,opencv" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,r,anaconda,gcp,docker" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,tensorflow,selenium,sklearn,pytorch,opencv" />
 </div>
 
 <br/>
@@ -44,12 +46,12 @@
   <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=dylanvu6868&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
 <br/>
-<br/>
 <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanvu6868&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 <br/>
 </div>
 <hr/>
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+watching+👋" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+watching+👋" alt="Typing SVG" /><br>
+  <a href='https://moewalls.com/others/pepe-matrix-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2023/07/pepe-matrix-thumb-728x410.jpg' title='Pepe Matrix Live Wallpaper'></a>
 </h1>
