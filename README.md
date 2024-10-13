@@ -10,6 +10,8 @@
  
  🌱 I'm aiming for **_AI Engineer_**, **_Data Scientist_**
 
+ 🎙️ My language: **_Vietnamese, English, Japanese, German_**
+
  </div>
 <div align="center"> 
   <a href="mailto:dylanvu6868@gmail.com">
