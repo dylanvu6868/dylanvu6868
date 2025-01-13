@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-   <img src="https://img.shields.io/badge/fastapi-%2300ADD8.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/fastapi-%2300ADD8.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/hadoop-%23ff7a00.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop" /><br>
