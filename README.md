@@ -1,6 +1,3 @@
-<h1 align="center">
-   <img src="https://static1.textcraft.net/data1/c/8/c80de63780dfddb0ade48a30545be52c6d7f1e72da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070962f35815c7fee759bd2dca462c910cde.png" />
-</h1>
 <h3 align="center"><img width="64" height="64" src="https://img.icons8.com/external-flat-wichaiwi/64/external-factory-china-and-us-trade-war-flat-wichaiwi.png" alt="external-factory-china-and-us-trade-war-flat-wichaiwi"/></h3>
 <h3 align="center"><a href='https://moewalls.com/others/pepe-matrix-live-wallpaper/' target='_blank'><img width="24" height="24" src="https://img.icons8.com/emoji/48/vietnam-emoji.png" alt="vietnam-emoji"/></a> AI Major in FPT University from Vietnam <a href='https://moewalls.com/others/pepe-matrix-live-wallpaper/' target='_blank'><img width="24" height="24" src="https://img.icons8.com/emoji/48/vietnam-emoji.png" alt="vietnam-emoji" alt="vietnam--v1"/></a></h3>
 <br/>
@@ -58,7 +55,6 @@
 </div>
 <hr/>
 <h2 align="center">
-   <img src="https://static1.textcraft.net/data1/2/6/26e868e24c3c16a0b71bfcdee5d6dce73acd87cdda39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709844a0c758f11c029d641edc878535506.png" /><br>
    <img src="https://img.icons8.com/?size=100&id=21735&format=png&color=000000" />
 </h2>
 
