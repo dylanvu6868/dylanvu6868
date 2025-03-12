@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/dylanvu6868/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://docs.google.com/document/d/e/2PACX-1vQfLsHU2chFN3ot5SvBuHC8uSC_STUWkqUjtzbEUgreh2WmImi4h15SwVkNUYAxvkHk0Y93V_joPZ1E/pub" target="_blank">
+  <a href="https://www.overleaf.com/read/dbcvwjcphyjr#0a39b5" target="_blank">
      <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
