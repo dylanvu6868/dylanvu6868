@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/dylanvu6868/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://smallpdf.com/file#s=b58bb1f7-3b8f-46b6-8d28-ad4976d5ca90" target="_blank">
-     <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
  <hr/>
 <h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
