@@ -5,7 +5,7 @@
  
  🔭 I’m currently learning on **_FPT University_**
  
- 🌱 I'm aiming for **_AI Engineer_**, **_Data Scientist_**, **_Data Engineer_**
+ 🌱 I'm aiming for **_AI Engineer_**
 
  🎙️ My language: **_Vietnamese, English, Japanese, German_**
 
